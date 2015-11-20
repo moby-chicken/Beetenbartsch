@@ -50,7 +50,11 @@ public class MainActivity extends AppCompatActivity {
         // Set up the ViewPager with the sections adapter.
         mViewPager = (ViewPager) findViewById(R.id.container);
         mViewPager.setAdapter(mSectionsPagerAdapter);
+        //Slaninka pridava komentar :))
+        //a este jeden komentar
+        //a pre istotu este sem dame jednu nevyuzitu premennu
 
+        int  x = 41;
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
