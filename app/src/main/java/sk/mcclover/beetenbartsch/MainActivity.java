@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
      */
     private ViewPager mViewPager;
 
-    private static boolean marekJeManager = true;
+    private static int marekJeManager = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
