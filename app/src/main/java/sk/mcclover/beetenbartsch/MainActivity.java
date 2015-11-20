@@ -36,7 +36,8 @@ public class MainActivity extends AppCompatActivity {
      */
     private ViewPager mViewPager;
 
-    private static boolean SlaninockaIsManageris = true;
+    /* opovazte sa to dakto zmenit! :D */
+    private static boolean niemandIstDerManager = true;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
