@@ -53,8 +53,8 @@ public class MainActivity extends AppCompatActivity {
         //Slaninka pridava komentar :))
         //a este jeden komentar
         //a pre istotu este sem dame jednu nevyuzitu premennu
+        //moby vsak takyto postup neschvaluje, a preto maze tuto zbytocnu premennu !
 
-        int  x = 41;
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
